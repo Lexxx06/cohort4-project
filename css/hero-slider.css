@@ -179,29 +179,14 @@ Hero Slider - by CodyHouse.co
 }
 
 .cd-hero__slide:first-of-type {
-  background-color: #E65100;
-  background: linear-gradient(to right,rgb(99, 26, 26), rgb(58, 7, 7) );
-  /* background-image: url(../uploads/slider-01.jpg); */
+  background-color: #b2beb5 ;
+  background: linear-gradient(to right,rgb(138, 145, 141), rgb(200, 206, 204) );
+  /* background-image: url(../images/coder.jpg); */
 }
 
 .cd-hero__slide:nth-of-type(2) {
-  background-color: #E65100;
-  background-image: url(../uploads/slider-02.jpg);
-}
-
-.cd-hero__slide:nth-of-type(3) {
-  background-color: #E65100;
-  background-image: url(../uploads/slider-03.jpg);
-}
-
-.cd-hero__slide:nth-of-type(4) {
-  background-color: #E65100;
-  background-image: url(../uploads/slider-04.jpg);
-}
-
-.cd-hero__slide:nth-of-type(5) {
-  background-color: #E65100;
-  background-image: url(../uploads/slider-05.jpg);
+  background-color: #b2beb5 ;
+  background-image: url(../images/charts.jpg);
 }
 
 .cd-hero__content.cd-hero__content--full-width,
